@@ -1,0 +1,266 @@
+[
+	{
+	  "question": "What is the capital of Australia?",
+	  "options": [
+		"A. Sydney",
+		"B. Melbourne",
+		"C. Canberra",
+		"D. Brisbane"
+	  ],
+	  "answer": "C. Canberra"
+	},
+	{
+	  "question": "Who is the current Prime Minister of the United Kingdom?",
+	  "options": [
+		"A. Boris Johnson",
+		"B. Theresa May",
+		"C. David Cameron",
+		"D. Tony Blair"
+	  ],
+	  "answer": "A. Boris Johnson"
+	},
+	{
+	  "question": "In which year did the COVID-19 pandemic begin?",
+	  "options": [
+		"A. 2019",
+		"B. 2020",
+		"C. 2021",
+		"D. 2018"
+	  ],
+	  "answer": "A. 2019"
+	},
+	{
+	  "question": "What is the largest planet in our solar system?",
+	  "options": [
+		"A. Earth",
+		"B. Mars",
+		"C. Jupiter",
+		"D. Saturn"
+	  ],
+	  "answer": "C. Jupiter"
+	},
+	{
+	  "question": "Who is the current President of France?",
+	  "options": [
+		"A. Emmanuel Macron",
+		"B. Nicolas Sarkozy",
+		"C. François Hollande",
+		"D. Jacques Chirac"
+	  ],
+	  "answer": "A. Emmanuel Macron"
+	},
+	{
+	  "question": "Which country hosted the 2020 Summer Olympics?",
+	  "options": [
+		"A. Japan",
+		"B. China",
+		"C. Brazil",
+		"D. South Korea"
+	  ],
+	  "answer": "A. Japan"
+	},
+	{
+	  "question": "Who is the CEO of Tesla, Inc.?",
+	  "options": [
+		"A. Jeff Bezos",
+		"B. Tim Cook",
+		"C. Mark Zuckerberg",
+		"D. Elon Musk"
+	  ],
+	  "answer": "D. Elon Musk"
+	},
+	{
+	  "question": "What is the currency of South Korea?",
+	  "options": [
+		"A. Yen",
+		"B. Won",
+		"C. Baht",
+		"D. Peso"
+	  ],
+	  "answer": "B. Won"
+	},
+	{
+	  "question": "Who won the 2021 Nobel Prize in Physics?",
+	  "options": [
+		"A. Albert Einstein",
+		"B. Marie Curie",
+		"C. Roger Penrose",
+		"D. Stephen Hawking"
+	  ],
+	  "answer": "C. Roger Penrose"
+	},
+	{
+	  "question": "What is the main ingredient in traditional Japanese miso soup?",
+	  "options": [
+		"A. Tofu",
+		"B. Seaweed",
+		"C. Fish",
+		"D. Miso paste"
+	  ],
+	  "answer": "D. Miso paste"
+	},
+	{
+		  "question": "Who won the FIFA World Cup in 2018?",
+		  "options": [
+			"A. France",
+			"B. Brazil",
+			"C. Germany",
+			"D. Argentina"
+		  ],
+		  "answer": "A. France"
+		},
+		{
+		  "question": "What is the scientific study of living organisms called?",
+		  "options": [
+			"A. Zoology",
+			"B. Botany",
+			"C. Biology",
+			"D. Geology"
+		  ],
+		  "answer": "C. Biology"
+		},
+		{
+		  "question": "What does DNA stand for in biology?",
+		  "options": [
+			"A. Deoxyribonucleic Acid",
+			"B. Double-Nucleotide Amine",
+			"C. Dihydrogen Nitrogen Atom",
+			"D. Deoxyribose Nucleotide"
+		  ],
+		  "answer": "A. Deoxyribonucleic Acid"
+		},
+		{
+		  "question": "Who is known as the father of Bioinformatics?",
+		  "options": [
+			"A. Charles Darwin",
+			"B. Linus Pauling",
+			"C. John von Neumann",
+			"D. Warren G. Laver"
+		  ],
+		  "answer": "C. John von Neumann"
+		},
+		{
+		  "question": "In which year was the Nobel Prize first awarded?",
+		  "options": [
+			"A. 1901",
+			"B. 1923",
+			"C. 1950",
+			"D. 1895"
+		  ],
+		  "answer": "A. 1901"
+		},
+		{
+		  "question": "Which Nobel Prize category is not awarded in Sweden, but in Norway?",
+		  "options": [
+			"A. Physics",
+			"B. Medicine or Physiology",
+			"C. Literature",
+			"D. Peace"
+		  ],
+		  "answer": "D. Peace"
+		},
+		{
+		  "question": "Who is the alter-ego of the superhero Spiderman?",
+		  "options": [
+			"A. Peter Parker",
+			"B. Bruce Wayne",
+			"C. Tony Stark",
+			"D. Clark Kent"
+		  ],
+		  "answer": "A. Peter Parker"
+		},
+		{
+		  "question": "What is the name of Spiderman's iconic web-shooting device?",
+		  "options": [
+			"A. Webblaster",
+			"B. Webshooter",
+			"C. Webgun",
+			"D. Weblauncher"
+		  ],
+		  "answer": "B. Webshooter"
+		},
+		{
+			  "question": "Which football club holds the record for the most consecutive English Premier League titles?",
+			  "options": [
+				"A. Manchester United",
+				"B. Liverpool",
+				"C. Chelsea",
+				"D. Arsenal"
+			  ],
+			  "answer": "A. Manchester United"
+			},
+			{
+			  "question": "What is the process by which plants make their own food using sunlight?",
+			  "options": [
+				"A. Photosynthesis",
+				"B. Respiration",
+				"C. Fermentation",
+				"D. Transpiration"
+			  ],
+			  "answer": "A. Photosynthesis"
+			},
+			{
+			  "question": "In bioinformatics, what does the acronym DNA stand for?",
+			  "options": [
+				"A. Deoxyribonucleic Acid",
+				"B. Digital Nucleotide Analysis",
+				"C. Data Networking Algorithm",
+				"D. Direct Nucleic Assay"
+			  ],
+			  "answer": "A. Deoxyribonucleic Acid"
+			},
+			{
+			  "question": "Who is the youngest Nobel Prize laureate in history, having won the Nobel Peace Prize at the age of 17?",
+			  "options": [
+				"A. Malala Yousafzai",
+				"B. Albert Einstein",
+				"C. Marie Curie",
+				"D. Nelson Mandela"
+			  ],
+			  "answer": "A. Malala Yousafzai"
+			},
+			{
+			  "question": "In the Spiderman comics, who is the arch-nemesis of Spiderman and is known as the 'Green Goblin'?",
+			  "options": [
+				"A. Doctor Octopus",
+				"B. Venom",
+				"C. Sandman",
+				"D. Norman Osborn"
+			  ],
+			  "answer": "D. Norman Osborn"
+			},
+			{
+			  "question": "Which molecule in the human body is responsible for carrying oxygen in the blood?",
+			  "options": [
+				"A. Hemoglobin",
+				"B. Insulin",
+				"C. Adrenaline",
+				"D. Serotonin"
+			  ],
+			  "answer": "A. Hemoglobin"
+			},
+			{
+			  "question": "Who was the first scientist to discover and describe the double-helix structure of DNA?",
+			  "options": [
+				"A. Gregor Mendel",
+				"B. James Watson",
+				"C. Francis Crick",
+				"D. Charles Darwin"
+			  ],
+			  "answer": "C. Francis Crick"
+			},
+			{
+			  "question": "Which footballer has won the most FIFA Ballon d'Or awards?",
+			  "options": [
+				"A. Lionel Messi",
+				"B. Cristiano Ronaldo",
+				"C. Pelé",
+				"D. Diego Maradona"
+			  ],
+			  "answer": "A. Lionel Messi"
+			}
+		  ]
+		  
+	  
+	  
+  
